@@ -1,3 +1,3 @@
 # cs-adakami
 
-[AdaKami](https://csadakamicare.online)
+[AdaKami](https://cs-adakami-rahmat-hafizs-projects.vercel.app/)
