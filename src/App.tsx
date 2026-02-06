@@ -44,7 +44,7 @@ function App() {
         </div>
 
         <footer className="text-center mt-8 text-gray-500 text-sm">
-          © 2026 Adakami. Seluruh hak cipta dilindungi undang-undang.
+          © 2025 Adakami. Seluruh hak cipta dilindungi undang-undang.
         </footer>
       </div>
     </div>
